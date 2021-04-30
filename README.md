@@ -1,11 +1,11 @@
 ### Hi there 👋
-> I am a Developer turned Product Manager with 6 years of overall experience in cloud computing, banking and retail services domains.
+I am a Developer turned Product Manager with 6 years of overall experience in cloud computing, banking and retail services domains.
 
 :octocat: Here are few languages/tech i work with
-- :computer: UI `HTML,CSS,Js,Angular,NodeJs,D3`
-- :space_invader: Python
-- :floppy_disk: DB `SQL,MongoDB`
-- :cloud: AWS, Kubernetes, Heroku, GCP, Docker
+- :computer: `HTML,CSS,Js,Angular,NodeJs,D3`
+- :space_invader: `Python`
+- :floppy_disk: `SQL,MongoDB`
+- :cloud: `AWS,Kubernetes,Heroku,GCP,Docker`
 
 :mailbox_with_mail: Connect on : [LinkedIn](https://www.linkedin.com/in/avinash-gatreddi-82683888/)
 <!--
