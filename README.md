@@ -1,5 +1,13 @@
 ### Hi there 👋
+> I am a Developer turned Product Manager with 6 years of overall experience in cloud computing, banking and retail services domains.
 
+:octocat: Here are few languages/tech i work with
+- :computer: UI `HTML,CSS,Js,Angular,NodeJs,D3`
+- :space_invader: Python
+- :floppy_disk: DB `SQL,MongoDB`
+- :cloud: AWS, Kubernetes, Heroku, GCP, Docker
+
+:mailbox_with_mail: Connect on : [LinkedIn](https://www.linkedin.com/in/avinash-gatreddi-82683888/)
 <!--
 **Avinash-Gatsy/Avinash-Gatsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
